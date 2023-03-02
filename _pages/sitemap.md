@@ -38,6 +38,6 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
   {% include archive-single.html %}
-  {% endunless %} -->
+  {% endunless %} 
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
