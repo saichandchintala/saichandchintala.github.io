@@ -5,7 +5,13 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+<h2><a href=“https://saichandchintala.github.io/”>Sai Chand Chintala</a></h2>
+
+<h2><a href=“https://saichandchintala.github.io/research/”>Research</a></h2>
+
+<h2><a href=“https://saichandchintala.github.io/cv/”>CV</a></h2>
+
+<!-- {% include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
@@ -32,6 +38,6 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% for post in collection.docs %}
   {% unless collection.output == false or collection.label == "posts" %}
   {% include archive-single.html %}
-  {% endunless %}
+  {% endunless %} -->
 {% endfor %}
 {% endfor %}
