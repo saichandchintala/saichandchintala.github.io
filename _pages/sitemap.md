@@ -5,13 +5,13 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-<h2><a href=“https://saichandchintala.github.io/”>Sai Chand Chintala</a></h2>
+<a href=“https://saichandchintala.github.io/”>Sai Chand Chintala</a>
 
-<h2><a href=“https://saichandchintala.github.io/research/”>Research</a></h2>
+<a href=“https://saichandchintala.github.io/research/”>Research</a>
 
-<h2><a href=“https://saichandchintala.github.io/teaching/”>Teaching</a></h2>
+<a href=“https://saichandchintala.github.io/teaching/”>Teaching</a>
 
-<h2><a href=“https://saichandchintala.github.io/cv/”>CV</a></h2>
+<a href=“https://saichandchintala.github.io/cv/”>CV</a>
 
 <!-- {% include base_path %}
 
