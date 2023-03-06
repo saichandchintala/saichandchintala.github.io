@@ -16,7 +16,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    #url: https://saichandchintala.github.io/CV.pdf -->
-    [CV](https://saichandchintala.github.io/CV.pdf){:target="_blank"}
+    url: https://saichandchintala.github.io/CV.pdf -->
+    
   #- title: "Contributions"
   #  url: /markdown/
