@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<a href="https://saichandchintala.github.io/CV.pdf">CV</a>
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
