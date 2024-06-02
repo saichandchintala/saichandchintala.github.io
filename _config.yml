@@ -8,6 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Sai Chand Chintala"
+excerpt                  : "Ph.D. Student in Quantitative Marketing at Cornell University, Sai Chintala, Sai Chand Chintala"
+seo_title                : "Ph.D. Student in Quantitative Marketing at Cornell University, Sai Chintala, Sai Chand Chintala"
 title_separator          : "-"
 name                     : &name "Sai Chand Chintala"
 description              : &description "Ph.D. Student in Quantitative Marketing at Cornell University, Sai Chintala"
@@ -265,6 +267,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -272,6 +275,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
 
 
 # Archives
