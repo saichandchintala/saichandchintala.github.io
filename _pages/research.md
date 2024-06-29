@@ -16,5 +16,9 @@ author_profile: true
 
  “Determinants and Consequences of the Adoption of Online Grocery Shopping in Developing Markets: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali (Under Review at <i>Journal of Marketing Research</i>)
 
+<h2> Work in Progress </h2>
+"Enhanced Market Access to Small-Scale Farmers: Evidence from a Field Experiment in India" - Muzeeb Shaik
+"Effect of a Local Regulation on Business Revenues and Customer Visits" - Muzeeb Shaik
+
 
 
