@@ -14,7 +14,7 @@ author_profile: true
 <h2> Working Papers </h2>
 “Local Bias in Global Platforms: Evidence from a Cross-Market Merger” - Sai Chand Chintala, Jura Liaukonyte, Emaad Manzoor (<i>Job Market Paper</i>)
 
- “Adoption of Online Grocery Shopping in a Market Dominated by Unorganized Retail: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali (Under Review at <i>Journal of Marketing Research</i>)
+ “Adoption of Online Grocery Shopping in a Market Dominated by Unorganized Retail: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali (<i>Reject & Resubmit</i> at <i>Journal of Marketing Research</i>)
 
 <h2> Work in Progress </h2>
 “Enhanced Market Access to Small-Scale Farmers: Evidence from a Field Experiment in India” - Sai Chand Chintala, Muzeeb Shaik
