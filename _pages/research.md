@@ -12,7 +12,7 @@ author_profile: true
  We Buy” </a> - Sai Chand Chintala, Jura Liaukonyte and Nathan Yang. <i>Marketing Science</i>, 2023, 43(3):506-522.
 
 <h2> Working Papers </h2>
-“Local Bias in Global Platforms: Evidence from a Cross-Market Merger” - Sai Chand Chintala, Jura Liaukonyte, Emaad Manzoor (<i>Job Market Paper</i>)
+“Local Bias in Global Platforms: Evidence from a Cross-Market Merger” - Sai Chand Chintala, Jura Liaukonyte, Tommaso Bondi, Dominykas Seputis
 
  “Adoption of Online Grocery Shopping in a Market Dominated by Unorganized Retail: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali (<i>Reject & Resubmit</i> at <i>Journal of Marketing Research</i>)
 
