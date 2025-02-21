@@ -7,6 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<head>
+<style>
+  .hidden-border-table {
+    border-collapse: collapse;
+    width: 60%;
+    font-family: inherit; /* Inherit font from body */
+    font-size: inherit; /* Inherit font size from body */
+    border: none; /* Remove outside border */
+  }
+  .hidden-border-table td, .hidden-border-table th {
+    border: none;
+    padding: 0px 10px;
+    white-space: nowrap;/* Reduce padding to reduce space between columns */
+  }
+</style>
+</head>
 
 I’m a Ph.D. Candidate in Marketing at S.C. Johnson College of Business, Cornell University.
 
