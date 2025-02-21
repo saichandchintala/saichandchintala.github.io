@@ -33,7 +33,7 @@ As an empirical researcher, I study how digital platforms and e-commerce service
 
 I will join Singapore Management University as an Assistant Professor of Marketing in Summer 2025.
 
-<h2>Education</h2> 
+<h2 style="border-bottom: none;">Education</h2> 
 <table class="hidden-border-table">
   <tr>
     <td>Ph.D. Candidate in Marketing</td>
