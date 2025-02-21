@@ -21,7 +21,7 @@ redirect_from:
     padding: 0px 10px;
     white-space: nowrap;/* Reduce padding to reduce space between columns */
   }
-  .h2 {
+  h2 {
   border-bottom: none;
 }
 </style>
