@@ -41,7 +41,7 @@ I will join Singapore Management University as an Assistant Professor of Marketi
     <td>Indian Institute of Management, Lucknow</td>
   </tr>
   <tr>
-    <td>B.Tech. Electrical & Electronics Engineering</td>
+    <td>B.Tech. (Electrical & Electronics Engineering)</td>
     <td>National Institute of Technology, Warangal</td>
   </tr>
 </table>
