@@ -34,7 +34,7 @@ As an empirical researcher, I study how digital platforms and e-commerce service
 <h2 style="border-bottom: none;">Education</h2> 
 <table class="hidden-border-table">
   <tr>
-    <td>Ph.D. in Marketing</td>
+    <td>Ph.D. (Marketing)</td>
     <td>Cornell University</td>
   </tr>
   <tr>
