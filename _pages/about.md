@@ -27,16 +27,14 @@ redirect_from:
 </style>
 </head>
 
-I’m a Ph.D. Candidate in Marketing at S.C. Johnson College of Business, Cornell University.
+I’m an Assistant Professor of Marketing at Lee Kong Chian School of Business, Singapore Management University.
 
 As an empirical researcher, I study how digital platforms and e-commerce services impact consumer behavior and market processes. My research focuses on how changes in market thickness on C2C platforms retain local biases after the integration of asymmetric markets. I also examine how online grocery shopping affects consumer purchasing patterns in both developed and developing settings, highlighting shifts in shopping habits due to digital channels. I use machine learning techniques to capture latent patterns in large sets of shopping data, enabling the identification of comparable shopping trips or products. Building on this, I apply econometric and causal inference tools to evaluate the substantive research questions.
-
-I will join Singapore Management University as an Assistant Professor of Marketing in Summer 2025.
 
 <h2 style="border-bottom: none;">Education</h2> 
 <table class="hidden-border-table">
   <tr>
-    <td>Ph.D. Candidate in Marketing</td>
+    <td>Ph.D. in Marketing</td>
     <td>Cornell University</td>
   </tr>
   <tr>
