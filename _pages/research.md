@@ -17,7 +17,7 @@ author_profile: true
  “Adoption of Online Grocery Shopping in a Market Dominated by Unorganized Retail: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali 
 
 <h2> Work in Progress </h2>
-“Enhanced Market Access to Small-Scale Farmers: Evidence from a Field Experiment in India” - Sai Chand Chintala, Muzeeb Shaik
+<!-- “Enhanced Market Access to Small-Scale Farmers: Evidence from a Field Experiment in India” - Sai Chand Chintala, Muzeeb Shaik -->
 
 “Effect of a Local Regulation on Business Revenues and Customer Visits” - Muzeeb Shaik, Sai Chand Chintala
 
