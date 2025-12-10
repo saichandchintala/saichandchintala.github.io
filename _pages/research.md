@@ -16,7 +16,7 @@ author_profile: true
 
  “Adoption of Online Grocery Shopping in a Market Dominated by Unorganized Retail: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali 
 
-“Effect of a Local Regulation on Business Revenues and Customer Visits” - Sai Chand Chintala, Muzeeb Shaik, J.J. Chen
+“Effect of a Local Regulation on Business Revenues” - Sai Chand Chintala, Muzeeb Shaik, J.J. Chen
 
 
 <h2> Work in Progress </h2>
