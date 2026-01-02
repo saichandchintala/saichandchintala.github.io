@@ -18,6 +18,8 @@ author_profile: true
 
 “Effect of a Local Regulation on Business Revenues” - Sai Chand Chintala, Muzeeb Shaik, J.J. Chen
 
+"Firm Stance and Consumer Response" - Raja Subramanian, Sai Chand Chintala, Gautham Vadakkepatt
+
 
 <h2> Work in Progress </h2>
 <!-- “Enhanced Market Access to Small-Scale Farmers: Evidence from a Field Experiment in India” - Sai Chand Chintala, Muzeeb Shaik -->
