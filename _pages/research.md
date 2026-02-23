@@ -14,11 +14,11 @@ author_profile: true
 <h2> Working Papers </h2>
 “Local Bias in Global Platforms: Evidence from a Cross-Market Merger” - Sai Chand Chintala, Tommaso Bondi, Jura Liaukonyte,  Dominykas Seputis
 
- “Adoption of Online Grocery Shopping in a Market Dominated by Unorganized Retail: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali 
+ “Adoption of Online Grocery Shopping in a Market Dominated by Unorganized Retail: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali (Revise & Resubmit)
 
 “Effect of a Local Regulation on Business Revenues” - Sai Chand Chintala, Muzeeb Shaik, J.J. Chen
 
-"Firm Stance and Consumer Response" - Raja Subramanian, Sai Chand Chintala, Gautham Vadakkepatt
+"Firm Stance and Consumer Response" - Raja Subramanian, Sai Chand Chintala, Gautham Vadakkepatt (Reject & Resubmit)
 
 
 <h2> Work in Progress </h2>
