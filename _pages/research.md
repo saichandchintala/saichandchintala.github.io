@@ -16,7 +16,7 @@ author_profile: true
 
 “Adoption of Online Grocery Shopping in a Market Dominated by Unorganized Retail: Evidence from India” - Vishal Narayan, Sai Chand Chintala, Vrinda Kadiyali (Revise & Resubmit)
 
-"Firm Stance and Consumer Response" - Raja Subramanian, Sai Chand Chintala, Gautham Vadakkepatt (Reject & Resubmit)
+"Firm Stance and Consumer Response" - Raja Subramanian, Sai Chand Chintala, Gautham Vadakkepatt (Revise & Resubmit)
 
 "Partisan Identity and Product Demand" - Sai Chand Chintala, Raja Subramanian, Gautham Vadakkepatt
 
